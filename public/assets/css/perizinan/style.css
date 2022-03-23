@@ -1,0 +1,188 @@
+#navbar {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+        Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    font-weight: 400;
+    color: white;
+}
+#judulNavbar {
+    margin: 10px;
+    font-size: 38px;
+    font-style: normal;
+    line-height: 44.53px;
+}
+
+div.container-fluid {
+    padding: 0px 0px 0px 36px;
+}
+
+#tanggal {
+    font-size: 23px;
+    font-style: normal;
+    line-height: 27px;
+    margin: 0px 40px 0px 0px;
+}
+
+#jam {
+    font-size: 31px;
+    line-height: 36px;
+    text-align: left;
+    margin: 0px 40px 0px 0px;
+}
+/* akhir navbar */
+
+/* ==================================================== */
+/* navbar */
+
+#navbar {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+        Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    font-weight: 400;
+    color: white;
+}
+#judulNavbar {
+    margin: 10px;
+    font-size: 38px;
+    font-style: normal;
+    line-height: 44.53px;
+}
+
+div.container-fluid {
+    padding: 0px 0px 0px 36px;
+}
+
+#tanggal {
+    font-size: 23px;
+    font-style: normal;
+    line-height: 27px;
+    margin: 0px 40px 0px 0px;
+}
+
+#jam {
+    font-size: 31px;
+    line-height: 36px;
+    text-align: left;
+    margin: 0px 40px 0px 0px;
+}
+/* akhir navbar */
+
+/* isi */
+
+#isi {
+    margin-top: 10%;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.gambar img {
+    /* margin: 30% 5% 0% 34%; */
+    margin: 0px 100px 0px 200px;
+    width: 330px;
+}
+.gambar {
+    display: inline-block;
+}
+
+.tulisan {
+    display: inline-block;
+}
+.salam {
+    font-size: 29px;
+    font-weight: 400;
+    line-height: 38px;
+    text-align: left;
+    margin: 0px 0px 0px 0px;
+}
+
+.nama {
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: left;
+
+    padding-top: 10px;
+    margin: 0px 0px 0px 0px;
+}
+.kelas {
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: left;
+
+    padding-top: 25px;
+}
+
+.dari {
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: left;
+
+    padding-top: 15px;
+}
+
+.galaxy {
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: left;
+
+    padding-top: 0px;
+}
+.a {
+    font-size: 29px;
+    padding-top: 25px;
+}
+
+.mengerjakan {
+    font-size: 29px;
+}
+.menyelesaikan {
+    padding-top: 30px;
+    font-size: 29px;
+}
+.mengetahui {
+    font-size: 29px;
+}
+
+.b {
+    font-size: 29px;
+    padding-left: 0px;
+}
+.c {
+    width: 200px;
+}
+#ttd {
+    font-size: 29px;
+    margin: 0% 7% 4% 0%;
+}
+#ttd .p1 {
+    margin-top: 150px;
+}
+table,
+tr,
+td {
+    border-collapse: collapse;
+}
+/* akhir isi */
+
+/* isi baru */
+.isi {
+    margin-top: 200px;
+}
+
+.box {
+    width: auto;
+    height: 100px;
+    /* border: 1px solid #000; */
+}
+
+.time {
+    padding: 0 0 0 27px;
+}
