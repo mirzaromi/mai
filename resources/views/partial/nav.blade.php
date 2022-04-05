@@ -1,13 +1,20 @@
 <div class="container flex-lg-row flex-nowrap align-items-center">
-    <div class="navbar-brand w-100">
+    <div class="navbar-brand w-100 navbar-MAI">
       <a href="/">
-        <img class="logo-dark" src="/assets/assets/img/photos/mai/logoMAI-hitam.png" srcset="/assets/assets/img/photos/mai/logoMAI-hitam.png " alt="" />
+        {{-- <img class="logo-dark" src="/assets/assets/img/photos/mai/logoMAI-hitam.png" srcset="/assets/assets/img/photos/mai/logoMAI-hitam.png " alt="" /> --}}
+        <img class="logo-dark" src="/assets/assets/img/photos/mai/logo MA remove bg.png" srcset="/assets/assets/img/photos/mai/logo MA remove bg.png " alt="" width="60px"/>
+        
         @if ((request()->is('/')))
-        <img class="logo-light" src="/assets/assets/img/photos/mai/logoMAI-2.png" srcset="/assets/assets/img/photos/mai/logoMAI-2.png " alt="" />
+        <img class="logo-light" src="/assets/assets/img/photos/mai/logo MA remove bg.png" srcset="/assets/assets/img/photos/mai/logo MA remove bg.png" alt="" width="60px" />
+        
         @else
-        <img class="logo-light" src="/assets/assets/img/photos/mai/logoMAI-hitam.png" srcset="/assets/assets/img/photos/mai/logoMAI-hitam.png " alt="" />
+        {{-- <img class="logo-light" src="/assets/assets/img/photos/mai/logoMAI-hitam.png" srcset="/assets/assets/img/photos/mai/logoMAI-hitam.png " alt="" /> --}}
         @endif
       </a>
+      <div class="navbar-text">
+        <h4 class="navbar-heading text-light">MAU Amanatul Ummah <br> Program Istimewa</h4>
+        <h4 class="navbar-heading text-light">Layanan SKS 2 dan 3 Tahun</h4>
+      </div>
     </div>
     <div class="navbar-collapse offcanvas-nav">
       <div class="offcanvas-header d-lg-none d-xl-none">

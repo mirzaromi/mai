@@ -41,7 +41,7 @@
                         <p class="mb-6" style="text-align: justify; text-indent:2em"> MADRASAH Aliyah Istimewa
                             (MAI) Amanatul Ummah merupakan satu layanan Berbasis SKS 2 dan 3 Tahun. Melihat sisi
                             kesejarahannya, MAI adalah buah dari perubahan nama Layanan CI/ Akselerasi dan Excellent.
-                            Siswa-siswi MAI Amanatul Ummah mempunyai kesempatan untuk menyelesaikan masa belajarnya
+                            Siswa-siswi MAU Amanatul Ummah program Istimewa Layanan SKS 2 dan 3 Tahun mempunyai kesempatan untuk menyelesaikan masa belajarnya
                             dalam 2 tahun atau 3 tahun Masa belajar 2 tahun dapat ditempuh dengan mempertimbangkan aspek
                             kepribadian, hasil akademik dan tes IQ.</p>
                         <p class="mb-6" style="text-align: justify; text-indent:2em"> Bagi yang tidak memenuhi
@@ -57,7 +57,7 @@
                     <div class="col-md-10 col-xl-8 col-xxl-7 mx-auto text-center">
                         <img src="/assets/assets/img/icons/list.svg" class="svg-inject icon-svg icon-svg-md mb-4"
                             alt="" />
-                        <h2 class="display-4 mb-4 px-lg-14">Visi Misi MAI Amanatul Ummah</h2>
+                        <h2 class="display-4 mb-4 px-lg-14">Visi Misi MAU Amanatul Ummah program Istimewa Layanan SKS 2 dan 3 Tahun</h2>
                     </div>
                     <!-- /column -->
                 </div>
@@ -230,7 +230,7 @@
                     <div class="col-md-10 col-xl-9 col-xxl-7 mx-auto text-center">
                         <img src="/assets/assets/img/icons/team.svg" class="svg-inject icon-svg icon-svg-md mb-4"
                             alt="" />
-                        <h2 class="display-4 mb-3 px-lg-14">Fungsionaris MAI Amanatul Ummah.
+                        <h2 class="display-4 mb-3 px-lg-14">Fungsionaris MAU Amanatul Ummah program Istimewa Layanan SKS 2 dan 3 Tahun.
                         </h2>
                     </div>
                     <!--/column -->

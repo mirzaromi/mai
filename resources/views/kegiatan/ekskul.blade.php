@@ -19,7 +19,7 @@
         <div class="row">
           <div class="col-md-8 col-lg-7 col-xl-6 col-xxl-8">
             <h1 class="display-1 mb-3">Ekstrakulikuler</h1>
-            <p class="lead fs-lg pe-lg-15 pe-xxl-12">Selain mendapatkan hardskill, santri MAI Amanatul Ummah juga dibekali dengan berbagai macam Ekstrakulikuler yang menarik</p>
+            <p class="lead fs-lg pe-lg-15 pe-xxl-12">Selain mendapatkan hardskill, santri MAU Amanatul Ummah program Istimewa Layanan SKS 2 dan 3 Tahun juga dibekali dengan berbagai macam Ekstrakulikuler yang menarik</p>
           </div>
           <!-- /column -->
         </div>

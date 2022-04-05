@@ -19,7 +19,7 @@
         <section class="wrapper bg-light">
             <div class="container py-14 py-md-12">
                 <div class="row mt-6">
-                    <h2 class="mb-8 display-4" style="text-align: center">Layanan SKS MAI Amanatul Ummah</h2>
+                    <h2 class="mb-8 display-4" style="text-align: center">Layanan SKS MAU Amanatul Ummah program Istimewa Layanan SKS 2 dan 3 Tahun</h2>
                     <div class="col-xl-10 mx-auto">
                         <div class="grid grid-view projects-tiles show-more" data-showstart="3" data-showafter="3">
                             <div class="project light-gallery-wrapper">
@@ -67,7 +67,7 @@
               <div class="row">
                 <div class="col-lg-8 col-xl-8 col-xxl-6">
                   <h2 class="fs-16 text-uppercase text-line text-primary mb-3">What We Do?</h2>
-                  <h3 class="display-4 mb-9">Program Unggulan MAI Amanatul Ummah</h3>
+                  <h3 class="display-4 mb-9">Program Unggulan MAU Amanatul Ummah program Istimewa Layanan SKS 2 dan 3 Tahun</h3>
                 </div>
                 <!-- /column -->
               </div>
@@ -83,7 +83,7 @@
                 <div class="col-md-6 col-lg-3">
                   <div class="icon btn btn-block btn-lg btn-soft-primary disabled mb-6"> <i class="uil uil-trophy"></i> </div>
                   <h4>Akreditasi A</h4>
-                  <p class="mb-3">MAI Amanatul Ummah menjalankan sistem yang kompetitif, penuh kejujuran, dan rasa percaya diri dalam bentuk dauroh/remidi, Try Out UN & SBMPTN</p>
+                  <p class="mb-3">MAU Amanatul Ummah program Istimewa Layanan SKS 2 dan 3 Tahun menjalankan sistem yang kompetitif, penuh kejujuran, dan rasa percaya diri dalam bentuk dauroh/remidi, Try Out UN & SBMPTN</p>
                   
                 </div>
                 <!--/column -->
@@ -128,7 +128,7 @@
                 <div class="col-md-6 col-lg-3">
                   <div class="icon btn btn-block btn-lg btn-soft-primary disabled mb-6"> <i class="uil uil-laptop"></i> </div>
                   <h4>Event Galaxy</h4>
-                  <p class="mb-3">Galaxy merupakan event tahunan bersakala nasional yang diadakan oleh siswa-siswi MAI Amanatul Ummah. Event ini diadakan sebagai wadah bagi santri yang mempunyai passion dalam bidang manajemen organisasi/kepanitiaan</p>
+                  <p class="mb-3">Galaxy merupakan event tahunan bersakala nasional yang diadakan oleh siswa-siswi MAU Amanatul Ummah program Istimewa Layanan SKS 2 dan 3 Tahun. Event ini diadakan sebagai wadah bagi santri yang mempunyai passion dalam bidang manajemen organisasi/kepanitiaan</p>
                   
                 </div>
                 <!--/column -->

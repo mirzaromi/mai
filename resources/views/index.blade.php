@@ -237,7 +237,7 @@
                                 <div class="card">
                                     <div class="card-body">
                                         <blockquote class="icon mb-0">
-                                            <p>“Lembaga pendidikan MAI Amanatul Ummah mempunyai induk yang kuat yaitu
+                                            <p>“Lembaga pendidikan MAU Amanatul Ummah program Istimewa Layanan SKS 2 dan 3 Tahun mempunyai induk yang kuat yaitu
                                                 Yayasan Amanatul Ummah yang mempunyai ideologis-ideologis kebangsaan dan
                                                 keislaman yang kuat”</p>
                                             <div class="blockquote-details">
@@ -371,7 +371,7 @@
                 <div class="container py-14 py-md-16">
                     <div class="row align-items-center mb-10">
                         <div class="col-md-8 col-lg-9 col-xl-8 col-xxl-7 pe-xl-20">
-                            <h2 class="display-4 mb-0">Postingan Terbaru MAI Amanatul Ummah</h2>
+                            <h2 class="display-4 mb-0">Postingan Terbaru MAU Amanatul Ummah program Istimewa Layanan SKS 2 dan 3 Tahun</h2>
                         </div>
                         <!--/column -->
                         <div class="col-md-4 col-lg-3 ms-md-auto text-md-end mt-5 mt-md-0">
@@ -574,8 +574,8 @@
                     <div class="col-md-9 col-lg-7 col-xl-7 mx-auto text-center" data-cue="bounceIn">
                         <img src="/assets/assets/img/icons/puzzle-2.svg" class="svg-inject icon-svg icon-svg-md mb-4"
                             alt="" />
-                        <h2 class="display-4 mb-3">PPDB MAI Amanatul Ummah</h2>
-                        <p class="lead fs-lg mb-6 px-xl-10 px-xxl-15">Marilah menjadi bagian dari MAI Amanatul Ummah
+                        <h2 class="display-4 mb-3">PPDB MAU Amanatul Ummah program Istimewa Layanan SKS 2 dan 3 Tahun</h2>
+                        <p class="lead fs-lg mb-6 px-xl-10 px-xxl-15">Marilah menjadi bagian dari MAU Amanatul Ummah program Istimewa Layanan SKS 2 dan 3 Tahun
                         </p>
                         <a href="https://ppdb.mai-au.sch.id" class="btn btn-primary rounded" target="_blank">Join
                             Us</a>
@@ -592,7 +592,7 @@
 
                                     <!-- /.post-category -->
                                     <h1 class="post-title h1 mt-1 mb-3 pt-2"><a class="link-dark"
-                                            href="/assets/doc/PPDB 2021-2022 MAI.pdf">Brosur PPDB MAI Amanatul Ummah 2022-2023</a>
+                                            href="/assets/doc/PPDB 2021-2022 MAI.pdf">Brosur PPDB MAU Amanatul Ummah program Istimewa Layanan SKS 2 dan 3 Tahun 2022-2023</a>
                                     </h1>
 
                                     <a href="/assets/doc/PPDB 2021-2022 MAI.pdf" class="btn btn-primary rounded"
@@ -641,7 +641,7 @@
                 "brandSubTitle": "Dibalas secepatnya",
                 "brandImg": "https://mai-au.sch.id/assets/assets/img/photos/mai/logoMAI.png",
                 "welcomeText": "Assalaamu'alaikum\nAda yang bisa kami bantu?",
-                "messageText": "Assalaamu'alaikum%0AMohon Informasi ppdb MAI Amanatul Ummah",
+                "messageText": "Assalaamu'alaikum%0AMohon Informasi ppdb MAU Amanatul Ummah program Istimewa Layanan SKS 2 dan 3 Tahun",
                 "backgroundColor": "#0a5f54",
                 "ctaText": "Start Chat",
                 "borderRadius": "25",

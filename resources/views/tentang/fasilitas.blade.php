@@ -87,7 +87,7 @@
                                             </div>
                                             <!-- /.post-header -->
                                             <div class="post-content">
-                                                <p>MAI Amanatul Ummah menyediakan fasilitas olahraga agar santri tetap bugar dan sehat</p>
+                                                <p>MAU Amanatul Ummah program Istimewa Layanan SKS 2 dan 3 Tahun menyediakan fasilitas olahraga agar santri tetap bugar dan sehat</p>
                                             </div>
                                             <!-- /.post-content -->
                                         </div>
@@ -96,36 +96,36 @@
                                     <!-- /.item -->
                                     <div class="item col-md-6">
                                         <figure class="itooltip itooltip-light hover-scale rounded"
-                                            title='<h5 class="mb-0">lapangan MAI Amanatul Ummah</h5>'><a 
+                                            title='<h5 class="mb-0">lapangan MAU Amanatul Ummah program Istimewa Layanan SKS 2 dan 3 Tahun</h5>'><a 
                                                 href="/assets/assets/img/photos/mai/fasilitas_lapangan_1.JPG" class="lightbox"
                                                 data-sub-html=".caption4"> <img src="/assets/assets/img/photos/mai/fasilitas_lapangan_1.JPG"
                                                     alt="" /></a>
                                             <div class="caption4 d-none">
-                                                <h5>Lapangan MAI Amanatul Ummah</h5>
+                                                <h5>Lapangan MAU Amanatul Ummah program Istimewa Layanan SKS 2 dan 3 Tahun</h5>
                                             </div>
                                         </figure>
                                     </div>
                                     <!-- /.item -->
                                     <div class="item col-md-6">
                                         <figure class="itooltip itooltip-light hover-scale rounded"
-                                            title='<h5 class="mb-0">lapangan MAI Amanatul Ummah</h5>'><a
+                                            title='<h5 class="mb-0">lapangan MAU Amanatul Ummah program Istimewa Layanan SKS 2 dan 3 Tahun</h5>'><a
                                                 href="/assets/assets/img/photos/mai/fasilitas_lapangan_2.JPG" class="lightbox"
                                                 data-sub-html=".caption5"> <img src="/assets/assets/img/photos/mai/fasilitas_lapangan_2.JPG"
                                                     alt="" /></a>
                                             <div class="caption5 d-none">
-                                                <h5>Lapangan MAI Amanatul Ummah</h5>
+                                                <h5>Lapangan MAU Amanatul Ummah program Istimewa Layanan SKS 2 dan 3 Tahun</h5>
                                             </div>
                                         </figure>
                                     </div>
                                     <!-- /.item -->
                                     <div class="item col-md-6">
                                         <figure class="itooltip itooltip-light hover-scale rounded"
-                                            title='<h5 class="mb-0">lapangan MAI Amanatul Ummah</h5>'><a
+                                            title='<h5 class="mb-0">lapangan MAU Amanatul Ummah program Istimewa Layanan SKS 2 dan 3 Tahun</h5>'><a
                                                 href="/assets/assets/img/photos/mai/fasilitas_lapangan_3.JPG" class="lightbox"
                                                 data-sub-html=".caption6"> <img src="/assets/assets/img/photos/mai/fasilitas_lapangan_3.JPG"
                                                     alt="" /></a>
                                             <div class="caption6 d-none">
-                                                <h5>Lapangan MAI Amanatul Ummah</h5>
+                                                <h5>Lapangan MAU Amanatul Ummah program Istimewa Layanan SKS 2 dan 3 Tahun</h5>
                                             </div>
                                         </figure>
                                     </div>
@@ -153,7 +153,7 @@
                                     <!-- /.item -->
                                     <div class="item col-md-6">
                                         <figure class="itooltip itooltip-light hover-scale rounded"
-                                            title='<h5 class="mb-0">Poli Klinik MAI Amanatul Ummah</h5>'><a
+                                            title='<h5 class="mb-0">Poli Klinik MAU Amanatul Ummah program Istimewa Layanan SKS 2 dan 3 Tahun</h5>'><a
                                                 href="/assets/assets/img/photos/mai/fasilitas_poli_1.jpg" class="lightbox"
                                                 data-sub-html=".caption7"> <img src="/assets/assets/img/photos/mai/fasilitas_poli_1.jpg"
                                                     alt="" /></a>
@@ -165,7 +165,7 @@
                                     <!-- /.item -->
                                     <div class="item col-md-6">
                                         <figure class="itooltip itooltip-light hover-scale rounded"
-                                            title='<h5 class="mb-0">Poli Klinik MAI Amanatul Ummah</h5>'><a
+                                            title='<h5 class="mb-0">Poli Klinik MAU Amanatul Ummah program Istimewa Layanan SKS 2 dan 3 Tahun</h5>'><a
                                                 href="/assets/assets/img/photos/mai/fasilitas_poli_2.jpg" class="lightbox"
                                                 data-sub-html=".caption8"> <img src="/assets/assets/img/photos/mai/fasilitas_poli_2.jpg"
                                                     alt="" /></a>
@@ -177,7 +177,7 @@
                                     <!-- /.item -->
                                     <div class="item col-md-6">
                                         <figure class="itooltip itooltip-light hover-scale rounded"
-                                            title='<h5 class="mb-0">Poli Klinik MAI Amanatul Ummah</h5>'><a
+                                            title='<h5 class="mb-0">Poli Klinik MAU Amanatul Ummah program Istimewa Layanan SKS 2 dan 3 Tahun</h5>'><a
                                                 href="/assets/assets/img/photos/mai/fasilitas_poli_3.jpg" class="lightbox"
                                                 data-sub-html=".caption3"> <img src="/assets/assets/img/photos/mai/fasilitas_poli_3.jpg"
                                                     alt="" /></a>

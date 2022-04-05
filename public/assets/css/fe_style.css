@@ -1,0 +1,16 @@
+.navbar-MAI {
+    display: flex;
+}
+
+.navbar-text {
+    display: flex;
+    flex-direction: column;
+    margin: -5px 0px 0px 0px;
+    padding: 5px;
+
+}
+
+.navbar-heading {
+    font-size: 0.75rem;
+    margin: 0;
+}
