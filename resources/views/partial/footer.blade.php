@@ -9,8 +9,10 @@
                     <nav class="nav social social-white">
                         <a href="#"><i class="uil uil-twitter"></i></a>
                         <a href="https://www.facebook.com/maistimewapacet/"><i class="uil uil-facebook-f"></i></a>
-                        <a href="https://www.instagram.com/mai.amanatulummah.pacet/"><i class="uil uil-instagram"></i></a>
-                        <a href="https://www.youtube.com/channel/UCu7xkBB8LZdrluR5ow1W27A"><i class="uil uil-youtube"></i></a>
+                        <a href="https://www.instagram.com/mai.amanatulummah.pacet/"><i
+                                class="uil uil-instagram"></i></a>
+                        <a href="https://www.youtube.com/channel/UCu7xkBB8LZdrluR5ow1W27A"><i
+                                class="uil uil-youtube"></i></a>
                     </nav>
                     <!-- /.social -->
                 </div>
@@ -48,7 +50,8 @@
                 <div class="widget">
                     <h4 class="widget-title mb-3 text-white">Get in Touch</h4>
                     <address>Jl. KH. Abdul Chalim No. 1, Kembangbelor, Pacet, Kab. Mojokerto 61374</address>
-                    <a href="mailto:mai.amanatulummah.pacet@gmail.com">mai.amanatulummah.pacet@gmail.com</a><br /> <a href="https::wa.me/6285157748815">+62 851-5774-8815</a>
+                    <a href="mailto:mai.amanatulummah.pacet@gmail.com">mai.amanatulummah.pacet@gmail.com</a><br /> <a
+                        href="https::wa.me/6285157748815">+62 851-5774-8815</a>
                 </div>
                 <!-- /.widget -->
             </div>
@@ -64,14 +67,16 @@
     </svg>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js"
-    integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous">
+integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous">
 </script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"
-    integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ=="
-    crossorigin="anonymous"></script>
+integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ=="
+crossorigin="anonymous"></script>
 <script src="/assets/assets/js/plugins.js"></script>
 <script src="/assets/assets/js/theme.js"></script>
+<script>
 
+</script>
 
 {{-- Vue --}}
 {{-- <script src="{{ mix('/js/app.js') }}"></script> --}}
