@@ -6,19 +6,31 @@
                 srcset="/assets/assets/img/photos/mai/logo MA remove bg.png " alt="" width="60px" />
 
             @if (request()->is('/'))
-                <img class="logo-light" src="/assets/assets/img/photos/mai/logo MA remove bg.png"
-                    srcset="/assets/assets/img/photos/mai/logo MA remove bg.png" alt="" width="60px" />
+            <div class="nav-logo">
+              <img class="logo-light" src="/assets/assets/img/photos/mai/logo MA remove bg.png"
+                  srcset="/assets/assets/img/photos/mai/logo MA remove bg.png" alt="" width="60px" />
+                  <div class="navbar-text">
+                    <h4 class="navbar-heading text-light">MAU Amanatul Ummah <br> Program Istimewa</h4>
+                    {{-- <h4 class="navbar-heading text-light">Layanan SKS 2 dan 3 Tahun</h4> --}}
+                </div>
+            </div>
             @else
-                <img class="logo-light" src="/assets/assets/img/photos/mai/logo MA remove bg.png"
-                    srcset="/assets/assets/img/photos/mai/logo MA remove bg.png" alt="" width="60px" />
+            <div class="nav-logo">
+              <img class="logo-light" src="/assets/assets/img/photos/mai/logo MA remove bg.png"
+                  srcset="/assets/assets/img/photos/mai/logo MA remove bg.png" alt="" width="60px" />
+                  <div class="navbar-text">
+                    <h4 class="navbar-heading text-dark">MAU Amanatul Ummah <br> Program Istimewa</h4>
+                    {{-- <h4 class="navbar-heading text-light">Layanan SKS 2 dan 3 Tahun</h4> --}}
+                </div>
+            </div>
                 {{-- <img class="logo-light" src="/assets/assets/img/photos/mai/logoMAI-hitam.png" srcset="/assets/assets/img/photos/mai/logoMAI-hitam.png " alt="" /> --}}
             @endif
         </a>
         @if (request()->is('/'))
-            <div class="navbar-text">
+            {{-- <div class="navbar-text">
                 <h4 class="navbar-heading text-light">MAU Amanatul Ummah <br> Program Istimewa</h4>
-                {{-- <h4 class="navbar-heading text-light">Layanan SKS 2 dan 3 Tahun</h4> --}}
-            </div>
+                {{-- <h4 class="navbar-heading text-light">Layanan SKS 2 dan 3 Tahun</h4>
+            </div> --}}
         @else
             <div class="navbar-text">
                 <h4 class="navbar-heading text-dark">MAU Amanatul Ummah <br> Program Istimewa</h4>

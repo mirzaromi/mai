@@ -16,3 +16,8 @@
     margin: 0;
     padding: 0 15px;
 }
+
+.nav-logo {
+    display: flex;
+    justify-content: space-between;
+}
