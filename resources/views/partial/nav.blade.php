@@ -4,14 +4,12 @@
             {{-- <img class="logo-dark" src="/assets/assets/img/photos/mai/logoMAI-hitam.png" srcset="/assets/assets/img/photos/mai/logoMAI-hitam.png " alt="" /> --}}
             <img class="logo-dark" src="/assets/assets/img/photos/mai/logo MA remove bg.png"
                 srcset="/assets/assets/img/photos/mai/logo MA remove bg.png " alt="" width="60px" />
-
             @if (request()->is('/'))
                 <img class="logo-light" src="/assets/assets/img/photos/mai/logo MA remove bg.png"
                     srcset="/assets/assets/img/photos/mai/logo MA remove bg.png" alt="" width="60px" />
             @else
                 <img class="logo-light" src="/assets/assets/img/photos/mai/logo MA remove bg.png"
                     srcset="/assets/assets/img/photos/mai/logo MA remove bg.png" alt="" width="60px" />
-                    
                 {{-- <img class="logo-light" src="/assets/assets/img/photos/mai/logoMAI-hitam.png" srcset="/assets/assets/img/photos/mai/logoMAI-hitam.png " alt="" /> --}}
             @endif
         </a>

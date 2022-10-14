@@ -15,7 +15,7 @@
         </header>
         <!-- /header -->
         <section class="wrapper bg-soft-primary">
-
+]
             <div class="container pt-10 pb-19 pt-md-14 pb-md-20 text-center">
                 <div class="row">
                     <div class="col-md-7 col-lg-6 col-xl-5 mx-auto">

@@ -4,5 +4,5 @@
 <title>MAI Amanatul Ummah || {{ $title }}</title>
 <link rel="stylesheet" href="/assets/assets/css/plugins.css">
 <link rel="stylesheet" href="/assets/assets/css/style.css">
-<link rel="stylesheet" href="/assets/assets/css/colors/yellow.css">
+<link rel="stylesheet" href="/assets/assets/css/colors/green.css">
 <link rel="stylesheet" href="/assets/css/fe_style.css">
